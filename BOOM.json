@@ -2,7 +2,7 @@
     "name": "Shiboomer",
     "symbol": "BOOM",
     "description": "He’s been here since Mt. Gox and still hasn’t sold. $BOOM is the ultimate boomer doge that knows the pump always comes. Shiboomer is your wise-but-wild guide to meme moonshots.",
-    "image": "ipfs://your_generated_image_cid_or_upload_path_here",
+    "image": "https://raw.githubusercontent.com/ricokanigara/tok/refs/heads/main/BOOM.jpg",
     "decimals": 9,
     "extensions": {
         "website": "https://shiboomer.wtf",
